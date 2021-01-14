@@ -22,6 +22,8 @@
 		D54E99BD25ABE70C00C1CA70 /* ProfileEditor.swift in Sources */ = {isa = PBXBuildFile; fileRef = D54E99BC25ABE70C00C1CA70 /* ProfileEditor.swift */; };
 		D56BBBF125AF634700FBFCF2 /* PageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D56BBBF025AF634700FBFCF2 /* PageViewController.swift */; };
 		D56BBBF425AF652100FBFCF2 /* FeatureCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = D56BBBF325AF652100FBFCF2 /* FeatureCard.swift */; };
+		D56BBC0C25B0125200FBFCF2 /* PageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D56BBC0B25B0125200FBFCF2 /* PageView.swift */; };
+		D56BBC0F25B0170600FBFCF2 /* PageControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = D56BBC0E25B0170600FBFCF2 /* PageControl.swift */; };
 		D578D95F25A63B2A004FE7E4 /* SeokhwanApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D578D95E25A63B2A004FE7E4 /* SeokhwanApp.swift */; };
 		D578D96125A63B2A004FE7E4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D578D96025A63B2A004FE7E4 /* ContentView.swift */; };
 		D578D96325A63B2B004FE7E4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D578D96225A63B2B004FE7E4 /* Assets.xcassets */; };
@@ -59,6 +61,8 @@
 		D54E99BC25ABE70C00C1CA70 /* ProfileEditor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileEditor.swift; sourceTree = "<group>"; };
 		D56BBBF025AF634700FBFCF2 /* PageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageViewController.swift; sourceTree = "<group>"; };
 		D56BBBF325AF652100FBFCF2 /* FeatureCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeatureCard.swift; sourceTree = "<group>"; };
+		D56BBC0B25B0125200FBFCF2 /* PageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageView.swift; sourceTree = "<group>"; };
+		D56BBC0E25B0170600FBFCF2 /* PageControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageControl.swift; sourceTree = "<group>"; };
 		D578D95B25A63B2A004FE7E4 /* Seokhwan.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Seokhwan.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D578D95E25A63B2A004FE7E4 /* SeokhwanApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SeokhwanApp.swift; sourceTree = "<group>"; };
 		D578D96025A63B2A004FE7E4 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -130,6 +134,8 @@
 			children = (
 				D56BBBF025AF634700FBFCF2 /* PageViewController.swift */,
 				D56BBBF325AF652100FBFCF2 /* FeatureCard.swift */,
+				D56BBC0B25B0125200FBFCF2 /* PageView.swift */,
+				D56BBC0E25B0170600FBFCF2 /* PageControl.swift */,
 			);
 			path = PageView;
 			sourceTree = "<group>";
@@ -320,6 +326,7 @@
 				D578D97325A64209004FE7E4 /* MapView.swift in Sources */,
 				D54E998425AB3F2500C1CA70 /* GraphCapsule.swift in Sources */,
 				D578D95F25A63B2A004FE7E4 /* SeokhwanApp.swift in Sources */,
+				D56BBC0F25B0170600FBFCF2 /* PageControl.swift in Sources */,
 				D578D99125A89C61004FE7E4 /* FavoriteButton.swift in Sources */,
 				D54E999525AB811800C1CA70 /* CategoryItem.swift in Sources */,
 				D54E998625AB3F2500C1CA70 /* HikeDetail.swift in Sources */,
@@ -328,6 +335,7 @@
 				D54E99B425ABDEDD00C1CA70 /* ProfileHost.swift in Sources */,
 				D5D2526325AB39C10004B77F /* Hike.swift in Sources */,
 				D5D2525825AA707C0004B77F /* RotatedBadgeSymbol.swift in Sources */,
+				D56BBC0C25B0125200FBFCF2 /* PageView.swift in Sources */,
 				D5D2525525AA6F710004B77F /* BadgeSymbol.swift in Sources */,
 				D54E99BD25ABE70C00C1CA70 /* ProfileEditor.swift in Sources */,
 				D578D98B25A64EE1004FE7E4 /* LandmarkList.swift in Sources */,
